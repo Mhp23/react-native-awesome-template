@@ -6,9 +6,14 @@ module.exports = {
       {
         root: ['.'],
         alias: {
-          '@': './src'
+          '@': './src',
         },
       },
     ],
   ],
+  env: {
+    production: {
+      plugins: ['transform-remove-console'],
+    },
+  },
 };
