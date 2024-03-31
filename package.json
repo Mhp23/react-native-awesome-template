@@ -1,0 +1,24 @@
+{
+  "name": "react-native-awesome-template",
+  "version": "1.0.0",
+  "description": "A React Native starter template to have a better product and development experience",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "keywords": [
+    "react-native",
+    "template",
+    "starter-template",
+    "starter-kit",
+    "boilerplate",
+    "awesome-template"
+  ],
+  "repository": "https://github.com/Mhp23/react-native-awesome-template",
+  "author": "mhp23 <hpousty@gmail.com> (https://github.com/Mhp23)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mhp23/react-native-awesome-template/issues"
+  },
+  "homepage": "https://github.com/Mhp23/react-native-awesome-template#readme"
+}
