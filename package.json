@@ -12,7 +12,10 @@
     "starter-template",
     "starter-kit",
     "boilerplate",
-    "awesome-template"
+    "awesome-template",
+    "react native starter",
+    "react native boilerplate",
+    "react native template"
   ],
   "repository": "https://github.com/Mhp23/react-native-awesome-template",
   "author": "mhp23 <hpousty@gmail.com> (https://github.com/Mhp23)",
