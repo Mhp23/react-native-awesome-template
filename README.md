@@ -10,7 +10,7 @@ Whether collectively or individually, maintaining the application necessitates a
 
 ## 💫 Features
 
-- 🐶 Configuring [husky](https://github.com/typicode/husky), a popular Git hook tool, simplifies the setup and management of pre-commit hooks.
+- 🐶 Configuring [husky](https://github.com/typicode/husky), a popular Git hook tool, simplifies the setup and management of pre-commit hooks. Currently, pre-commit, pre-push, and commit-msg hooks have configured.
 
 - 💅 Configuring [lint-staged](https://github.com/lint-staged/lint-staged) allows for code linting before committing, ensuring that no errors make their way into the repository and enforcing consistent code style.
 
