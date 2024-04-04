@@ -31,12 +31,12 @@ npx react-native init MyApp --template react-native-awesome-template
 Or specific version
 
 ```bash
-npx react-native init MyApp --template react-native-awesome-template@1.0.0
+npx react-native init MyApp --template react-native-awesome-template@1.6.0
 ```
 
 | Version | React Native |
 |---|---|
-| v1.0.0 | v73.6 |
+| v1.6.0 | v73.6 |
 
 
 ### Step 2
