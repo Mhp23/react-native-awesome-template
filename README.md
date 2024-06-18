@@ -36,6 +36,7 @@ npx react-native init MyApp --template react-native-awesome-template@1.6.0
 
 | Version | React Native |
 |---|---|
+| v2.2.0 | v0.74.2 |
 | v2.1.0 | v0.74.1 |
 | v2.0.0 | v0.74.0 |
 | v1.7.0 | v0.73.7 |
